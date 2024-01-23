@@ -1,0 +1,13 @@
+img{
+    width: 80%;
+    height: 100px;
+}
+ table,th,td{
+     border-collapse: collapse;
+     border-style: double;
+}
+ table{
+     width: 70%;
+     height: 70px;
+ }
+
